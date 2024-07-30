@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="baseVenteModelStoreContainer" CdmEntityContainer="baseVenteEntities1">
+    <EntitySetMapping Name="Categorie">
+      <EntityTypeMapping TypeName="baseVenteModel.Categorie">
+        <MappingFragment StoreEntitySet="Categorie">
+          <ScalarProperty Name="idCategorie" ColumnName="idCategorie" />
+          <ScalarProperty Name="codeCategorie" ColumnName="codeCategorie" />
+          <ScalarProperty Name="libelleCategorie" ColumnName="libelleCategorie" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Td_erreur">
+      <EntityTypeMapping TypeName="baseVenteModel.Td_erreur">
+        <MappingFragment StoreEntitySet="Td_erreur">
+          <ScalarProperty Name="titreErreur" ColumnName="titreErreur" />
+          <ScalarProperty Name="descriptionErreur" ColumnName="descriptionErreur" />
+          <ScalarProperty Name="dateErreur" ColumnName="dateErreur" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

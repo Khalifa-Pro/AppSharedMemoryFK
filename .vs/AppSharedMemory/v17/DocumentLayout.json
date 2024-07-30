@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC7727-6924-4A55-8FDC-15758DA9DA34}|MetierSharedMemory\\MetierSharedMemory.csproj|c:\\users\\finapps\\source\\repos\\appsharedmemory\\metiersharedmemory\\model\\encadreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC7727-6924-4A55-8FDC-15758DA9DA34}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\model\\encadreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|c:\\users\\finapps\\source\\repos\\appsharedmemory\\appsharedmemory\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\frmutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|c:\\users\\finapps\\source\\repos\\appsharedmemory\\appsharedmemory\\services\\utilisateurservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\services\\utilisateurservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A14D3B-74EF-436E-B18D-2B3FBD47A596}|ApiMetiers\\ApiMetiers.csproj|c:\\users\\finapps\\source\\repos\\appsharedmemory\\apimetiers\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A14D3B-74EF-436E-B18D-2B3FBD47A596}|ApiMetiers\\ApiMetiers.csproj|solutionrelative:apimetiers\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|c:\\users\\finapps\\source\\repos\\appsharedmemory\\appsharedmemory\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|c:\\users\\finapps\\source\\repos\\appsharedmemory\\appsharedmemory\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|c:\\users\\finapps\\source\\repos\\appsharedmemory\\appsharedmemory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\frmapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\frmapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\frmapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\frmapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\frmcategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\frmcategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\frmcategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\frmcategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\utils\\loggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\utils\\loggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\services\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\services\\categorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A14D3B-74EF-436E-B18D-2B3FBD47A596}|ApiMetiers\\ApiMetiers.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\apimetiers\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A14D3B-74EF-436E-B18D-2B3FBD47A596}|ApiMetiers\\ApiMetiers.csproj|solutionrelative:apimetiers\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\frmencadreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\frmencadreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC7727-6924-4A55-8FDC-15758DA9DA34}|MetierSharedMemory\\MetierSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\metiersharedmemory\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC7727-6924-4A55-8FDC-15758DA9DA34}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FC7727-6924-4A55-8FDC-15758DA9DA34}|MetierSharedMemory\\MetierSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\metiersharedmemory\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32FC7727-6924-4A55-8FDC-15758DA9DA34}|MetierSharedMemory\\MetierSharedMemory.csproj|solutionrelative:metiersharedmemory\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\connected services\\servicemetier\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\connected services\\servicemetier\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\frmencadreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\frmencadreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\frmcategorie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\frmcategorie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0096B44F-2055-4F0D-8F29-AE64C1526470}|NotificationL3glGroupe2\\NotificationL3glGroupe2.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\notificationl3glgroupe2\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0096B44F-2055-4F0D-8F29-AE64C1526470}|NotificationL3glGroupe2\\NotificationL3glGroupe2.csproj|solutionrelative:notificationl3glgroupe2\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0096B44F-2055-4F0D-8F29-AE64C1526470}|NotificationL3glGroupe2\\NotificationL3glGroupe2.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\notificationl3glgroupe2\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0096B44F-2055-4F0D-8F29-AE64C1526470}|NotificationL3glGroupe2\\NotificationL3glGroupe2.csproj|solutionrelative:notificationl3glgroupe2\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\appsharedmemory\\frmlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E87FD06-228D-41A1-A70A-0BD92FB978E4}|AppSharedMemory\\AppSharedMemory.csproj|solutionrelative:appsharedmemory\\frmlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "AppSharedMemory\\Models\\Utilisateur.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:52:32.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UtilisateurService.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Services\\UtilisateurService.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\Services\\UtilisateurService.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Services\\UtilisateurService.cs",
+              "RelativeToolTip": "AppSharedMemory\\Services\\UtilisateurService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:05:15.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmUtilisateur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\FrmUtilisateur.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\FrmUtilisateur.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\FrmUtilisateur.cs [Design]",
+              "RelativeToolTip": "AppSharedMemory\\FrmUtilisateur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:09:33.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmUtilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\FrmUtilisateur.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\FrmUtilisateur.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\FrmUtilisateur.cs",
+              "RelativeToolTip": "AppSharedMemory\\FrmUtilisateur.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAawF4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:38:50.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Models\\Categorie.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\Models\\Categorie.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Models\\Categorie.cs",
+              "RelativeToolTip": "AppSharedMemory\\Models\\Categorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:26:03.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Encadreur.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\MetierSharedMemory\\Model\\Encadreur.cs",
+              "RelativeDocumentMoniker": "MetierSharedMemory\\Model\\Encadreur.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\MetierSharedMemory\\Model\\Encadreur.cs",
+              "RelativeToolTip": "MetierSharedMemory\\Model\\Encadreur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:51:15.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmCategorie.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\FrmCategorie.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\FrmCategorie.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\FrmCategorie.cs",
+              "RelativeToolTip": "AppSharedMemory\\FrmCategorie.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAvwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:41:24.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\packages.config",
+              "RelativeDocumentMoniker": "AppSharedMemory\\packages.config",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\packages.config",
+              "RelativeToolTip": "AppSharedMemory\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-30T18:16:07.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Program.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\Program.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Program.cs",
+              "RelativeToolTip": "AppSharedMemory\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:31:14.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "AppSharedMemory\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:38:51.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\ApiMetiers\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "ApiMetiers\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\ApiMetiers\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "ApiMetiers\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:42:10.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAPI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\frmAPI.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\frmAPI.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\frmAPI.cs [Design]",
+              "RelativeToolTip": "AppSharedMemory\\frmAPI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:09:50.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmAPI.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\frmAPI.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\frmAPI.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\frmAPI.cs",
+              "RelativeToolTip": "AppSharedMemory\\frmAPI.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAvwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:28:25.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\App.config",
+              "RelativeDocumentMoniker": "AppSharedMemory\\App.config",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\App.config",
+              "RelativeToolTip": "AppSharedMemory\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-29T18:52:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmCategorie.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\FrmCategorie.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\FrmCategorie.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\FrmCategorie.cs [Design]",
+              "RelativeToolTip": "AppSharedMemory\\FrmCategorie.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:41:22.693Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Loggers.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\utils\\Loggers.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\utils\\Loggers.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\utils\\Loggers.cs",
+              "RelativeToolTip": "AppSharedMemory\\utils\\Loggers.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:38:12.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategorieService.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Services\\CategorieService.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\Services\\CategorieService.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Services\\CategorieService.cs",
+              "RelativeToolTip": "AppSharedMemory\\Services\\CategorieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:28:57.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\ApiMetiers\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ApiMetiers\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\ApiMetiers\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ApiMetiers\\Controllers\\CategoriesController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:27:17.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmEncadreur.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\frmEncadreur.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\frmEncadreur.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\frmEncadreur.cs",
+              "RelativeToolTip": "AppSharedMemory\\frmEncadreur.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:13:03.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\MetierSharedMemory\\IService1.cs",
+              "RelativeDocumentMoniker": "MetierSharedMemory\\IService1.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\MetierSharedMemory\\IService1.cs",
+              "RelativeToolTip": "MetierSharedMemory\\IService1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:56:48.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Connected Services\\ServiceMetier\\Reference.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\Connected Services\\ServiceMetier\\Reference.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\Connected Services\\ServiceMetier\\Reference.cs",
+              "RelativeToolTip": "AppSharedMemory\\Connected Services\\ServiceMetier\\Reference.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T18:52:03.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\MetierSharedMemory\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "MetierSharedMemory\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\MetierSharedMemory\\Service1.svc.cs",
+              "RelativeToolTip": "MetierSharedMemory\\Service1.svc.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:00:09.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmEncadreur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\frmEncadreur.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\frmEncadreur.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\frmEncadreur.cs [Design]",
+              "RelativeToolTip": "AppSharedMemory\\frmEncadreur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:38:41.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmCategorie.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\FrmCategorie.Designer.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\FrmCategorie.Designer.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\FrmCategorie.Designer.cs",
+              "RelativeToolTip": "AppSharedMemory\\FrmCategorie.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:43:24.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\NotificationL3glGroupe2\\Service1.cs",
+              "RelativeDocumentMoniker": "NotificationL3glGroupe2\\Service1.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\NotificationL3glGroupe2\\Service1.cs",
+              "RelativeToolTip": "NotificationL3glGroupe2\\Service1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:35:33.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\NotificationL3glGroupe2\\Service1.cs",
+              "RelativeDocumentMoniker": "NotificationL3glGroupe2\\Service1.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\NotificationL3glGroupe2\\Service1.cs [Design]",
+              "RelativeToolTip": "NotificationL3glGroupe2\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:33:38.381Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmLogs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\frmLogs.cs",
+              "RelativeDocumentMoniker": "AppSharedMemory\\frmLogs.cs",
+              "ToolTip": "C:\\Users\\FINAPPS\\source\\repos\\AppSharedMemory\\AppSharedMemory\\frmLogs.cs [Design]",
+              "RelativeToolTip": "AppSharedMemory\\frmLogs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:09:21.225Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

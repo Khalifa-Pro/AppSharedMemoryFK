@@ -1,0 +1,10 @@
+C:\Users\FINAPPS\source\repos\AppSharedMemory\NotificationL3glGroupe2\bin\Debug\NotificationL3glGroupe2.exe.config
+C:\Users\FINAPPS\source\repos\AppSharedMemory\NotificationL3glGroupe2\bin\Debug\NotificationL3glGroupe2.exe
+C:\Users\FINAPPS\source\repos\AppSharedMemory\NotificationL3glGroupe2\bin\Debug\NotificationL3glGroupe2.pdb
+C:\Users\FINAPPS\source\repos\AppSharedMemory\NotificationL3glGroupe2\obj\Debug\NotificationL3glGroupe2.csproj.AssemblyReference.cache
+C:\Users\FINAPPS\source\repos\AppSharedMemory\NotificationL3glGroupe2\obj\Debug\NotificationL3glGroupe2.csproj.CoreCompileInputs.cache
+C:\Users\FINAPPS\source\repos\AppSharedMemory\NotificationL3glGroupe2\obj\Debug\NotificationL3glGroupe2.exe
+C:\Users\FINAPPS\source\repos\AppSharedMemory\NotificationL3glGroupe2\obj\Debug\NotificationL3glGroupe2.pdb
+C:\Users\FINAPPS\source\repos\AppSharedMemory\NotificationL3glGroupe2\obj\Debug\NotificationL3glGroupe2.ServiceL3GL.resources
+C:\Users\FINAPPS\source\repos\AppSharedMemory\NotificationL3glGroupe2\obj\Debug\NotificationL3glGroupe2.csproj.GenerateResource.cache
+C:\Users\FINAPPS\source\repos\AppSharedMemory\NotificationL3glGroupe2\obj\Debug\NotificationL3glGroupe2.ProjectInstaller.resources
